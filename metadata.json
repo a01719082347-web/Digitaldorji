@@ -1,0 +1,8 @@
+{
+  "name": "Digital দর্জি",
+  "short_name": "Digital দর্জি",
+  "description": "A digital replacement for traditional tailoring paper slips, featuring customer management, measurement tracking, and order status monitoring with a Bangla-first interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
